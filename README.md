@@ -1,0 +1,2 @@
+# Sentiment Analysis
+A program written in python that performs a Sentiment Analysis to compare the popularity between two TV series. The program calculates the average sentiment score of each TV series from their corresponding scripts. The program uses the sentiment lexicon to analyze the sentiment of the wording used in the script and visualizes the data on a histogram using MatPlotLib.
